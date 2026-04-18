@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Dubbing Studio V2.2 (Tăng tốc độ đọc)",
+  "description": "Text-to-Speech app for film dubbing using Gemini 2.5 Pro TTS, supporting SRT/ASS files and multiple voices.",
+  "requestFramePermissions": []
+}
